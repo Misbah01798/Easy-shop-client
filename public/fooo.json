@@ -1,0 +1,62 @@
+[
+    {
+      "food_name": "Spaghetti Carbonara",
+      "food_category": "Pasta",
+      "price": 12.99,
+      "quantity": 100,
+      "food_origin": "Italy",
+      "description": "Creamy pasta with bacon and eggs.",
+      "food_img": "spaghetti_carbonara.jpg",
+      "user_email": "umisbah900@gamil.com"
+    },
+    {
+      "food_name": "Margherita Pizza",
+      "food_category": "Pizza",
+      "price": 10.99,
+      "quantity": 80,
+      "food_origin": "Italy",
+      "description": "Classic tomato, mozzarella, and basil pizza.",
+      "food_img": "margherita_pizza.jpg",
+      "user_email": "umisbah900@gamil.com"
+    },
+    {
+      "food_name": "Sushi Platter",
+      "food_category": "Sushi",
+      "price": 24.99,
+      "quantity": 60,
+      "food_origin": "Japan",
+      "description": "Assorted sushi rolls and sashimi.",
+      "food_img": "sushi_platter.jpg",
+      "user_email": "umisbah900@gamil.com"
+    },
+    {
+      "food_name": "Chicken Alfredo",
+      "food_category": "Pasta",
+      "price": 14.99,
+      "quantity": 70,
+      "food_origin": "Italy",
+      "description": "Creamy pasta with grilled chicken and Alfredo sauce.",
+      "food_img": "chicken_alfredo.jpg",
+      "user_email": "nisu@gamil.com"
+    },
+    {
+      "food_name": "Hawaiian Pizza",
+      "food_category": "Pizza",
+      "price": 11.99,
+      "quantity": 75,
+      "food_origin": "Italy",
+      "description": "Pizza with ham, pineapple, and mozzarella cheese.",
+      "food_img": "hawaiian_pizza.jpg",
+      "user_email": "nisu@gamil.com"
+    },
+    {
+      "food_name": "Tempura Sushi Roll",
+      "food_category": "Sushi",
+      "price": 15.99,
+      "quantity": 50,
+      "food_origin": "Japan",
+      "description": "Sushi roll with tempura shrimp and vegetables.",
+      "food_img": "tempura_sushi_roll.jpg",
+      "user_email": "nisu@gamil.com"
+    }
+  ]
